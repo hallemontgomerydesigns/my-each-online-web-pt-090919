@@ -4,6 +4,7 @@ def my_each(siblings)
 i = 0
 
 while i < siblings.length 
- yield()
+ yield(siblings[i])
+ 
 
 end
