@@ -5,6 +5,9 @@ i = 0
 
 while i < siblings.length 
  yield(siblings[i])
+ i = i + 1 
+ 
+ end
  
 
 end
