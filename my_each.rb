@@ -3,6 +3,7 @@ def my_each(siblings)
 
 i = 0
 
-while i < siblings
+while i < siblings.length 
+
 
 end
